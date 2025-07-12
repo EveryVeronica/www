@@ -50,9 +50,14 @@ export default function Navbar() {
       {/* mobile menu */}
       {isOpen && (
         <ul className="md:hidden mt-4 space-y-2">
-          <li><Link to="/" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">Home</Link></li>
-          <li><Link to="/about" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">About</Link></li>
-          <li><Link to="/contact" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">Contact</Link></li>
+    
+
+          <li><Link to="/" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">หน้าแรก</Link></li>
+          <li><Link to="/about" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">เกี่ยวกับเรา</Link></li>
+          <li><Link to="/vision" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">วิสัยทัศน์</Link></li>
+          <li><Link to="/community-role" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">นวัตกรรม</Link></li>
+          <li><Link to="/contact" className="block px-4 py-2 bg-blue-700 rounded hover:bg-blue-500">ติดต่อเรา</Link></li>
+
         </ul>
       )}
     </nav>
