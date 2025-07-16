@@ -10,6 +10,8 @@ import lak from '../assets/images/team/lak.jpg';
 import nopic from '../assets/images/team/nopic.png';
 
 import pyb from '../assets/images/team/pyb.jpg';
+import tom from '../assets/images/team/tom.jpg';
+
 
 
 
@@ -207,7 +209,7 @@ const teamMembers = [
     ],
   },
       {
-    name: "นาย",
+    name: "นายอติวุฒิ ทับทิมไทย",
     role: "ที่ปรึกษา กลุ่ม ผู้บริหาร UTI",
     description:
       "",
@@ -217,6 +219,18 @@ const teamMembers = [
 
     ],
   },
+        {
+    name: "นายประสพโชค  จรูญพันธ์เกษม",
+    role: "ที่ปรึกษา",
+    description:
+      "",
+    image:
+      tom,
+    social: [
+
+    ],
+  },
+
         {
     name: "นาย",
     role: "ฝ่ายอบรม & ถ่ายทอด",
@@ -230,7 +244,7 @@ const teamMembers = [
   },
 
     {
-    name: "นาย",
+    name: "นายชาตรี เนียมหอม",
     role: "ฝ่ายประสานงานชุมชน",
     description:
       "",
