@@ -111,7 +111,7 @@ const TeamSection = () => {
                     </div>
                   </div>
                   <div className="px-6 mt-16">
-                    <h1 className="font-bold text-2xl text-center mb-1">{member.name}</h1>
+                    <h1 className="font-bold text-center mb-1">{member.name}</h1>
                     <p className="text-gray-800 text-sm text-center">{member.role}</p>
                     <p className="text-center text-gray-600 text-base pt-3 font-normal">
                       {member.description}
