@@ -37,6 +37,7 @@ const images = [
   { src: _04, caption: "Caption 4" },
   { src: _05, caption: "Caption 5" },
   { src: _06, caption: "Caption 6" },
+  
 /*   { src: _07, caption: "Caption 7" },
   { src: _08, caption: "Caption 8" },
   { src: _09, caption: "Caption 9" },
