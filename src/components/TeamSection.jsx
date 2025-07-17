@@ -324,6 +324,29 @@ const teamMembers = [
 
     ],
   },
+        {
+    name: "นายวรากร อ่อนน้ำเที่ยง",
+    role: "ทีมภาคสนาม",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+
+        {
+    name: "นายปรีชา ปานน้อย",
+    role: "ทีมภาคสนาม",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
   // เพิ่มสมาชิกอื่น ๆ ตามรูปแบบนี้
 ];
 
