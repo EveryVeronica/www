@@ -47,7 +47,7 @@ const Header = () => (
 const Footer = () => (
   <footer className='container bg-black w-full text-white text-center py-4 mt-4 mb-4'>
 
-พื้นที่นำร่อง หมู่ที่ 18 ตำบล ระบำ อำเภอลานสัก จังหวัดอุทัยธานี 61160  บริเวณเขตุติดต่อแนวชายป่าสงวนหัวยขาแข้ง ระยะทางประมาณ 7 กิโลเมตร
+
 
    
   </footer>

@@ -1,5 +1,5 @@
 import React from "react";
-import nas from '../assets/images/team/nas.jpg';
+import net from '../assets/images/team/net.jpg';
 import uti from '../assets/images/team/uti.jpg';
 
 import chomporn from '../assets/images/team/chomporn.jpg';
@@ -200,7 +200,7 @@ const teamMembers = [
 
       {
     name: "นายอติวุฒิ ทับทิมไทย",
-    role: "ที่ปรึกษา กลุ่ม ผู้บริหาร UTI",
+    role: "ที่ปรึกษา",
     description:
       "",
     image:
@@ -221,20 +221,10 @@ const teamMembers = [
     ],
   },
 
-    {
-    name: "นายธเนศ เนียมหอม",
-    role: "หัวหน้าทีม",
-    description:
-      "",
-    image:
-      nas,
-    social: [
 
-    ],
-  },
 
         {
-    name: "นาย",
+    name: "null",
     role: "ฝ่ายอบรม & ถ่ายทอดความรู้",
     description:
       "",
@@ -252,6 +242,28 @@ const teamMembers = [
       "",
     image:
       pyb,
+    social: [
+
+    ],
+  },
+      {
+    name: "นายลา ศรีสวัสดิ์ ",
+    role: "ฝ่ายประสานงานชุมชน",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+      {
+    name: "นายธเนศ เนียมหอม",
+    role: "หัวหน้าทีม",
+    description:
+      "",
+    image:
+      net,
     social: [
 
     ],
