@@ -198,6 +198,19 @@ const TeamSection = () => {
 
 const teamMembers = [
 
+
+        {
+    name: "null",
+    role: "ปรึกษากิตติมศักดิ์ ",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+
       {
     name: "นายอติวุฒิ ทับทิมไทย",
     role: "ที่ปรึกษา",
@@ -247,7 +260,7 @@ const teamMembers = [
     ],
   },
       {
-    name: "นาย",
+    name: "นายลา ศรีสวัสดิ์",
     role: "ฝ่ายประสานงานชุมชน",
     description:
       "",

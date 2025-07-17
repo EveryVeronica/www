@@ -10,12 +10,12 @@ import _06 from '../assets/images/activity/06.jpg';
 
 
 const images = [
-  { src: _01, caption: "Caption 1" },
-  { src: _02, caption: "Caption 2" },
-  { src: _03, caption: "Caption 3" },
-  { src: _04, caption: "Caption 4" },
-  { src: _05, caption: "Caption 5" },
-  { src: _06, caption: "Caption 6" },
+  { src: _01, caption: "ดร.ศุภกิจ วินิตพรสวรรค์ มาดูการสาธิตการทำงานของระบบ" },
+  { src: _02, caption: "ดร.ศุภกิจ วินิตพรสวรรค์ มาดูการสาธิตการทำงานของระบบ"},
+  { src: _03, caption: "การติดตั้ง node" },
+  { src: _04, caption: "ผู้นำชุมชนกับชาวบ้านร่วมกันลาดตะเวนติดตามเหตุการณ์" },
+  { src: _05, caption: "ชาวบ้านเฝ้าระวังช้างป่า" },
+  { src: _06, caption: "กลางคืนที่แสนจะอันตราย" },
 
 
 ];
