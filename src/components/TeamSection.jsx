@@ -408,6 +408,18 @@ const teamMembers = [
 
     ],
   },
+
+  {
+    name: "นายยุธทภูมิ เพ็ชรนา",
+    role: "ทีมภาคสนาม",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
   
   // เพิ่มสมาชิกอื่น ๆ ตามรูปแบบนี้
 ];
