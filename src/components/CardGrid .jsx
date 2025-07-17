@@ -8,7 +8,7 @@ import _04 from '../assets/images/innovation/04.jpg';
 
 
 const cards = [
-  { id: 1, title: _01, date: "2019-01-01", description: "ระบบเตือนภัยช้างอัจฉริยะแบบเซ็นเซอร์ดึง ( EG-01 )" },
+  { id: 1, title: _01, date: "2025-01-05", description: "ระบบเตือนภัยช้างอัจฉริยะ ( EG-01 )" },
 
  
 ];

@@ -1,5 +1,5 @@
 import React from "react";
-import tnas from '../assets/images/team/tnas.jpg';
+import nas from '../assets/images/team/nas.jpg';
 import uti from '../assets/images/team/uti.jpg';
 
 import chomporn from '../assets/images/team/chomporn.jpg';
@@ -79,7 +79,7 @@ const TeamSection = () => {
     <div className="mb-16 ">
       <div className="container flex justify-center mx-auto p-10">
    
-          <p className="text-white text-lg text-center font-normal pb-3">ชื่อทีม : Elephant Guard ร่วมแก้ปัญหาช้างกับคน เพื่ออนาคตที่ยั่งยืน</p>
+          <p className="text-white text-lg text-center font-normal pb-3">ทีม : Elephant Guard ร่วมแก้ปัญหาช้างกับคน เพื่ออนาคตที่ยั่งยืน</p>
   
     
       </div>
@@ -197,17 +197,7 @@ const TeamSection = () => {
 };
 
 const teamMembers = [
-  {
-    name: "นายธเนศ เนียมหอม",
-    role: "หัวหน้าทีม",
-    description:
-      "",
-    image:
-      tnas,
-    social: [
 
-    ],
-  },
       {
     name: "นายอติวุฒิ ทับทิมไทย",
     role: "ที่ปรึกษา กลุ่ม ผู้บริหาร UTI",
@@ -231,9 +221,21 @@ const teamMembers = [
     ],
   },
 
+    {
+    name: "นายธเนศ เนียมหอม",
+    role: "หัวหน้าทีม",
+    description:
+      "",
+    image:
+      nas,
+    social: [
+
+    ],
+  },
+
         {
     name: "นาย",
-    role: "ฝ่ายอบรม & ถ่ายทอด",
+    role: "ฝ่ายอบรม & ถ่ายทอดความรู้",
     description:
       "",
     image:

@@ -37,7 +37,7 @@ const images = [
   { src: _04, caption: "Caption 4" },
   { src: _05, caption: "Caption 5" },
   { src: _06, caption: "Caption 6" },
-  { src: _07, caption: "Caption 7" },
+/*   { src: _07, caption: "Caption 7" },
   { src: _08, caption: "Caption 8" },
   { src: _09, caption: "Caption 9" },
   { src: _10, caption: "Caption 10" },
@@ -56,7 +56,7 @@ const images = [
   { src: _23, caption: "Caption 23" },
   { src: _24, caption: "Caption 24" },
   { src: _25, caption: "Caption 25" },
-  { src: _26, caption: "Caption 26" },
+  { src: _26, caption: "Caption 26" }, */
 ];
 
 
