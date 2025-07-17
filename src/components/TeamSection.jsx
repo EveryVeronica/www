@@ -11,7 +11,7 @@ import nopic from '../assets/images/team/nopic.png';
 
 import pyb from '../assets/images/team/pyb.jpg';
 import tom from '../assets/images/team/tom.jpg';
-
+import sak from '../assets/images/team/sak.jpg';
 
 
 
@@ -247,7 +247,7 @@ const teamMembers = [
     ],
   },
       {
-    name: "นายลา ศรีสวัสดิ์ ",
+    name: "นาย",
     role: "ฝ่ายประสานงานชุมชน",
     description:
       "",
@@ -349,7 +349,7 @@ const teamMembers = [
   },
 
           {
-    name: "นายสัมฤทธธิ์ สงชุมแสง",
+    name: "นายสัมฤทธิ์ สงชุมแสง",
     role: "ทีมภาคสนาม",
     description:
       "",
@@ -359,6 +359,56 @@ const teamMembers = [
 
     ],
   },
+
+            {
+    name: "นายประจิม วงค์คิรี",
+    role: "ทีมภาคสนาม",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+
+              {
+    name: "นายคำพัน บุตรตะมะ",
+    role: "ทีมภาคสนาม",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+
+{
+    name: "นายสมรักษ์  เปลี่ยนพิทักษ์",
+    role: "ทีมภาคสนาม",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+
+  
+{
+    name: "นายแสนศักดิ์ เนียมหอม",
+    role: "ทีมภาคสนาม",
+    description:
+      "",
+    image:
+      sak,
+    social: [
+
+    ],
+  },
+  
   // เพิ่มสมาชิกอื่น ๆ ตามรูปแบบนี้
 ];
 
