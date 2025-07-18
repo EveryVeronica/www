@@ -12,6 +12,8 @@ import nopic from '../assets/images/team/nopic.png';
 import pyb from '../assets/images/team/pyb.jpg';
 import tom from '../assets/images/team/tom.jpg';
 import sak from '../assets/images/team/sak.jpg';
+import kn from '../assets/images/team/kn.jpg';
+
 
 
 
@@ -200,8 +202,19 @@ const teamMembers = [
 
 
         {
-    name: "null",
-    role: "ปรึกษากิตติมศักดิ์ ",
+    name: "นายอนุพันธ์ สารสุวรรณ์",
+    role: "ที่ปรึกษากิตติมศักดิ์ ( กำนันตำบลระบำ ) ",
+    description:
+      "",
+    image:
+      kn,
+    social: [
+
+    ],
+  },
+          {
+    name: "นายสุชาติ อาภัสโรสกุล",
+    role: "ที่ปรึกษากิตติมศักดิ์",
     description:
       "",
     image:
@@ -250,7 +263,7 @@ const teamMembers = [
 
     {
     name: "นายชาตรี เนียมหอม",
-    role: "ฝ่ายประสานงานชุมชน",
+    role: "ฝ่ายประสานงานชุมชน ( ผู้ใหญ่บ้าน )",
     description:
       "",
     image:
@@ -261,6 +274,30 @@ const teamMembers = [
   },
       {
     name: "นายลา ศรีสวัสดิ์",
+    role: "ฝ่ายประสานงานชุมชน ( อ.บ.ต )",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+
+      {
+    name: "นายปรีชา แหวนประดับ",
+    role: "ฝ่ายประสานงานชุมชน",
+    description:
+      "",
+    image:
+      nopic,
+    social: [
+
+    ],
+  },
+
+      {
+    name: "นายพนอ อ่อนน้อม",
     role: "ฝ่ายประสานงานชุมชน",
     description:
       "",
