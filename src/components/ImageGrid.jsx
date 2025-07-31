@@ -15,7 +15,6 @@ import _06 from '../assets/images/about/06.jpg';
 
 
 
-
 const ImageGrid = () => {
 const placeholder = (text) =>
   `${text}`;

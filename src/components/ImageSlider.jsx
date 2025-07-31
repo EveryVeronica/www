@@ -5,17 +5,31 @@ import _03 from '../assets/images/activity/03.jpg';
 import _04 from '../assets/images/activity/04.jpg';
 import _05 from '../assets/images/activity/05.jpg';
 import _06 from '../assets/images/activity/06.jpg';
+import _07 from '../assets/images/activity/07.jpg';
+import _08 from '../assets/images/activity/08.jpg';
+import _09 from '../assets/images/activity/09.jpg';
+import _10 from '../assets/images/activity/10.jpg';
+import _11 from '../assets/images/activity/11.jpg';
+
+
 
 
 
 
 const images = [
-  { src: _01, caption: "ดร.ศุภกิจ วินิตพรสวรรค์ มาดูการสาธิตการทำงานของระบบ" },
-  { src: _02, caption: "ดร.ศุภกิจ วินิตพรสวรรค์ มาดูการสาธิตการทำงานของระบบ"},
-  { src: _03, caption: "การติดตั้ง node" },
-  { src: _04, caption: "ผู้นำชุมชนกับชาวบ้านร่วมกันลาดตะเวนติดตามเหตุการณ์" },
-  { src: _05, caption: "ชาวบ้านเฝ้าระวังช้างป่า" },
-  { src: _06, caption: "กลางคืนที่แสนจะอันตราย" },
+  { src: _01, caption: "เปิดโครงการเพื่อทดสอบระบบและทีมอาสา" },
+  { src: _02, caption: "นาย ธเนศ เนียมหอม หัวหน้าทีม Elephant Guard"},
+  { src: _03, caption: "สมาชิก ทีม Elephant Guard" },
+  { src: _04, caption: "ท่านกำนันตำบลระบำเยี่ยมชมระบบของเรา" },
+  { src: _05, caption: "ระบบรั้วเซ็นเซอร์เตือนภัยช้างป่า EG-02" },
+  { src: _06, caption: "สื่อมวลชลกำลังบันทึกภาพ" },
+  { src: _07, caption: "โครงการ Elephant Guard ร่วมแก้ปัญหาช้างกับคน เพื่ออนาคตที่ยั่งยืน" },
+  { src: _08, caption: "การติดตั้ง node" },
+  { src: _09, caption: "ดร.ศุภกิจ วินิตพรสวรรค์ มาดูการสาธิตการทำงานของระบบ" },
+  { src: _10, caption: "ดร.ศุภกิจ วินิตพรสวรรค์ มาดูการสาธิตการทำงานของระบบ" },
+  { src: _11, caption: "ดร.ศุภกิจ วินิตพรสวรรค์ มาดูการสาธิตการทำงานของระบบ" },
+
+
 
 
 ];
