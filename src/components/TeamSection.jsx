@@ -208,9 +208,9 @@ const teamMembers = [
 
         {
     name: "นายอนุพันธ์ สารสุวรรณ์",
-    role: "ที่ปรึกษากิตติมศักดิ์ ( กำนันตำบลระบำ ) ",
+    role: "ที่ปรึกษากิตติมศักดิ์",
     description:
-      "",
+      "( กำนันตำบลระบำ )",
     image:
       kn,
     social: [
@@ -225,9 +225,9 @@ const teamMembers = [
 
         {
     name: "นายเพื่มศักดิ์ กนิษฐ์ชาติ",
-    role: "ที่ปรึกษากิตติมศักดิ์ ( เขตุอนุรักษ์พันธุ์สัตว์ป่าห้วยขาแข้ง ) ",
+    role: "ที่ปรึกษากิตติมศักดิ์",
     description:
-      "",
+      "( เขตุอนุรักษ์พันธุ์สัตว์ป่าห้วยขาแข้ง )",
     image:
       hk,
     social: [
@@ -237,9 +237,9 @@ const teamMembers = [
 
         {
     name: "นางจันจิรา พิลึก",
-    role: "ที่ปรึกษากิตติมศักดิ์ ( รองนายก อบต.ระบำ ) ",
+    role: "ที่ปรึกษากิตติมศักดิ์",
     description:
-      "",
+      "( รองนายก อบต.ระบำ )",
     image:
       mb,
     social: [
@@ -251,9 +251,9 @@ const teamMembers = [
 
           {
     name: "นายอุดม กลับสว่าง",
-    role: "ที่ปรึกษากิตติมศักดิ์ ( มูลนิธิสืบนาคะเสถียร )",
+    role: "ที่ปรึกษากิตติมศักดิ์",
     description:
-      "",
+      "( มูลนิธิสืบนาคะเสถียร )",
     image:
       mt,
     social: [
@@ -320,9 +320,9 @@ const teamMembers = [
 
     {
     name: "นายชาตรี เนียมหอม",
-    role: "ฝ่ายประสานงานชุมชน ( ผู้ใหญ่บ้าน )",
+    role: "ฝ่ายประสานงานชุมชน",
     description:
-      "",
+      "( ผู้ใหญ่บ้าน )",
     image:
       pyb,
     social: [
@@ -331,9 +331,9 @@ const teamMembers = [
   },
       {
     name: "นายลา ศรีสวัสดิ์",
-    role: "ฝ่ายประสานงานชุมชน ( อ.บ.ต )",
+    role: "ฝ่ายประสานงานชุมชน",
     description:
-      "",
+      "( อ.บ.ต )",
     image:
       nopic,
     social: [
@@ -366,9 +366,9 @@ const teamMembers = [
   },
       {
     name: "นายธเนศ เนียมหอม",
-    role: "หัวหน้าทีม ( หมู่ 18)",
+    role: "หัวหน้าทีม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       net,
     social: [
@@ -377,9 +377,9 @@ const teamMembers = [
   },
     {
     name: "นายดำรงค์ฤทธิ์ สิงโตทอง",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       damrongrit,
     social: [
@@ -389,9 +389,9 @@ const teamMembers = [
 
     {
     name: "นายสิทธิชัย กุลเดช",
-    role: "ทีมภาคสนาม ( หมู่ 15)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 15 )",
     image:
       sittichai,
     social: [
@@ -400,9 +400,9 @@ const teamMembers = [
   },
     {
     name: "นายชมพร เอี่ยมชม",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       chomporn,
     social: [
@@ -411,9 +411,9 @@ const teamMembers = [
   },
       {
     name: "นายธนพล อินทุพันธ์",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
      thanapon,
     social: [
@@ -422,9 +422,9 @@ const teamMembers = [
   },
         {
     name: "นายวีรยุทธ นิคมทัศน์",
-    role: "ทีมภาคสนาม ( หมู่ 15)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 15 )",
     image:
      nopic,
     social: [
@@ -434,9 +434,9 @@ const teamMembers = [
 
       {
     name: "นายเศรษฐกานต์ แสนสีมนต์",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       lak,
     social: [
@@ -445,9 +445,9 @@ const teamMembers = [
   },
         {
     name: "นายวรากร อ่อนน้ำเที่ยง",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       nopic,
     social: [
@@ -457,9 +457,9 @@ const teamMembers = [
 
         {
     name: "นายปรีชา ปานน้อย",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       nopic,
     social: [
@@ -469,9 +469,9 @@ const teamMembers = [
 
           {
     name: "นายสัมฤทธิ์ สงชุมแสง",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       nopic,
     social: [
@@ -481,9 +481,9 @@ const teamMembers = [
 
             {
     name: "นายประจิม วงค์คิรี",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       nopic,
     social: [
@@ -493,9 +493,9 @@ const teamMembers = [
 
               {
     name: "นายคำพัน บุตรตะมะ",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       nopic,
     social: [
@@ -505,9 +505,9 @@ const teamMembers = [
 
 {
     name: "นายสมรักษ์  เปลี่ยนพิทักษ์",
-    role: "ทีมภาคสนาม ( หมู่ 18)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 18 )",
     image:
       nopic,
     social: [
@@ -518,9 +518,9 @@ const teamMembers = [
   
 {
     name: "นายแสนศักดิ์ เนียมหอม",
-    role: "ทีมภาคสนาม ( หมู่ 3)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 3 )",
     image:
       sak,
     social: [
@@ -530,9 +530,9 @@ const teamMembers = [
 
   {
     name: "นายวันชัย ทองคำ",
-    role: "ทีมภาคสนาม ( หมู่ 3)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 3 )",
     image:
       nopic,
     social: [
@@ -543,9 +543,9 @@ const teamMembers = [
   
   {
     name: "นายแสวง จันทร์หอม",
-    role: "ทีมภาคสนาม ( หมู่ 3)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 3 )",
     image:
       nopic,
     social: [
@@ -556,9 +556,9 @@ const teamMembers = [
   
   {
     name: "นายประมาณ แหยมน้อย",
-    role: "ทีมภาคสนาม ( หมู่ 3)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 3)",
     image:
       nopic,
     social: [
@@ -569,9 +569,9 @@ const teamMembers = [
   
   {
     name: "นายสนธยา โกสุมสวรรค์",
-    role: "ทีมภาคสนาม ( หมู่ 3)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 3 )",
     image:
       nopic,
     social: [
@@ -582,9 +582,9 @@ const teamMembers = [
   
   {
     name: "นายธงชัย รงค์ทอง",
-    role: "ทีมภาคสนาม ( หมู่ 3)",
+    role: "ทีมภาคสนาม",
     description:
-      "",
+      "( หมู่ 3 )",
     image:
       nopic,
     social: [
