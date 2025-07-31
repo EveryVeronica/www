@@ -120,7 +120,7 @@ const TeamSection = () => {
                   <div className="px-6 mt-16">
                     <h1 className="font-bold text-center mb-1">{member.name}</h1>
                     <p className="text-gray-800 text-sm text-center">{member.role}</p>
-                    <p className="text-center text-gray-600 text-base pt-3 font-normal">
+                    <p className="text-gray-800 text-xs text-center">
                       {member.description}
                     </p>
                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -273,7 +273,7 @@ const teamMembers = [
     name: "นายสุชาติ อาภัสโรสกุล",
     role: "ที่ปรึกษากิตติมศักดิ์",
     description:
-      "",
+      "( - )",
     image:
       nopic,
     social: [
@@ -285,7 +285,7 @@ const teamMembers = [
     name: "นายอติวุฒิ ทับทิมไทย",
     role: "ที่ปรึกษา",
     description:
-      "",
+      "( UTI )",
     image:
       uti,
     social: [
@@ -296,7 +296,7 @@ const teamMembers = [
     name: "นายประสพโชค  จรูญพันธ์เกษม",
     role: "ที่ปรึกษา",
     description:
-      "",
+      "( - )",
     image:
       tom,
     social: [
@@ -310,7 +310,7 @@ const teamMembers = [
     name: "null",
     role: "ฝ่ายอบรม & ถ่ายทอดความรู้",
     description:
-      "",
+      "( - )",
     image:
       nopic,
     social: [
@@ -345,7 +345,7 @@ const teamMembers = [
     name: "นายปรีชา แหวนประดับ",
     role: "ฝ่ายประสานงานชุมชน",
     description:
-      "",
+      "( - )",
     image:
       nopic,
     social: [
@@ -357,7 +357,7 @@ const teamMembers = [
     name: "นายพนอ อ่อนน้อม",
     role: "ฝ่ายประสานงานชุมชน",
     description:
-      "",
+      "( - )",
     image:
       nopic,
     social: [
