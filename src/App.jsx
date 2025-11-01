@@ -45,10 +45,43 @@ const Header = () => (
 );
 
 const Footer = () => (
-  <footer className='container bg-black w-full text-white text-center py-4 mt-4 mb-4'>
+  <footer className='container bg-black w-full text-white text-left py-4 mt-4 mb-4'>
+      <div className="h-fit p-4">
 
 
+  {/* ข้อมูลพื้นฐาน */}
+  <div className="mb-8 text-white ">
+    <p className="text-lg leading-relaxed">
+      ก่อตั้งขึ้นจากการรวมตัวของ <strong>นักพัฒนาอิสระ, อาสาสมัคร และผู้นำชุมชน</strong> ในพื้นที่ <strong>บ้านเขาไม้นวล หมู่ 18 ต.ระบำ อ.ลานสัก จ.อุทัยธานี</strong> ซึ่งเป็นพื้นที่ที่ประสบปัญหาความขัดแย้งระหว่างคนกับช้างป่าอย่างต่อเนื่อง
+    </p>
+  </div>
 
+  {/* ช่องทางการติดต่อ */}
+
+    <h2 className="text-2xl font-bold text-white mb-4">ช่องทางการติดต่อ</h2>
+    <ul className="space-y-2 text-white">
+      <li>
+        <span className="font-semibold">ที่อยู่ :</span> บ้านเขาไม้นวล ม.18 ต.ระบำ อ.ลานสัก จ.อุทัยธานี 61160
+      </li>
+      <li>
+        <span className="font-semibold">โทรศัพท์ :</span> 084-1754724
+      </li>
+      <li>
+        <span className="font-semibold">อีเมล :</span> veronica.in.th@gmail.com
+      </li>
+      <li>
+        <span className="font-semibold">Facebook Page :</span>{" "}
+        <a
+          href="https://www.facebook.com/profile.php?id=61577859430483"
+          className="text-blue-600 underline hover:text-blue-800"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ร่วมแก้ปัญหาช้างกับคน Elephant Guard
+        </a>
+      </li>
+    </ul>
+  </div>
    
   </footer>
 );
